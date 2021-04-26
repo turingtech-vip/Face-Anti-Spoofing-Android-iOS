@@ -10,7 +10,7 @@ Download Link: https://appsenjoy.com/aZFjH
 ### - Face Anti Spoofing iOS APP
 ##### Send me the UDID of your phone through skype. (live:turing311)
 
-### - Infared Face Anti Spoofing SDK
+### - Infrared Face Anti Spoofing SDK
 ##### Please contact me.
 
 ### - Depth based Face Anti Spoofing SDK
