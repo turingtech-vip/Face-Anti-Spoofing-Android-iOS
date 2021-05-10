@@ -1,6 +1,8 @@
 # Face Liveness Detection Android / iOS
 Robust, Commercial Grade Face Liveness Detection Android / iOS APP (Face Anti Spoofing)
 
+Please visit us (https://turingtech.vip) for more information
+
 ![Demo Video](https://raw.githubusercontent.com/Nikit333/Face-Anti-Spoofing-Android-iOS/main/2.gif)
 
 ### - Frame based Face Anti Spoofing Android APP
@@ -18,4 +20,4 @@ Download Link: https://appsenjoy.com/aZFjH
 ### - Depth based Face Anti Spoofing SDK
 ##### Please contact me.
 
-2021.05.07 updated
+2021.05.10 updated
