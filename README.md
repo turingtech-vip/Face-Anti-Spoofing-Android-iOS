@@ -18,4 +18,4 @@ Please visit us (https://turingtech.vip) for more information
 ### - Depth based Face Anti Spoofing SDK
 ##### Please contact me.
 
-2021.06.28 updated
+2021.07.12 updated
